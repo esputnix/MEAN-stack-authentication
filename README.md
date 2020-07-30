@@ -1,5 +1,7 @@
 # MEAN Stack Authentication
 
+https://www.sitepoint.com/user-authentication-mean-stack/
+
 To run, you just have MongoDB installed and running, and NodeJS installed.
 
 * Start MongoDB
